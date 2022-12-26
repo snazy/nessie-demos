@@ -29,4 +29,4 @@ testbook[dev]==0.4.2
 tox==3.26.0
 twine==4.0.1
 watchdog==2.1.9
-wheel==0.37.1
+wheel==0.38.1
